@@ -4,10 +4,10 @@
 
 2. Change this section of config.txt  
     
-    [Data Base]
-    dataBase = vpnDB	            ;  Name of dataBase 
-    host = localhost
-    user = root
-    password =	MyPass				;  password
+    [Data Base]<br>
+    dataBase = vpnDB	            ;  Name of dataBase <br>
+    host = localhost<br>
+    user = root<br>
+    password =	MyPass				;  password<br>
 
 3. On browser enter name of site. (In my case localhost). 
