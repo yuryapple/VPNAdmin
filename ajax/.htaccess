@@ -1,0 +1,1 @@
+php_value include_path '.:../:../application:../application/controllers:../application/models:../application/views:../ajax:../image:../styles:../utilites:../utilites:../javaScript:../utilites/vendor:../utilites/vendor:../utilites/bootstrap/css:../utilites/bootstrap/fonts:../utilites/bootstrap/js'

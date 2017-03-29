@@ -1,0 +1,10 @@
+[Program]
+per_page = 5					; records per page
+paginatorLength = 5				; show N itens in paginator
+
+[Data Base]
+dataBase = vpnDB	            ;  Name of dataBase 
+host = localhost
+user = root
+password =	MyPass				;  password
+
